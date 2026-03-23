@@ -1,7 +1,29 @@
 # NexusVit E-Commerce Database Project
 
-## Project Scope
-**NexusVit** is a fictional e-commerce company focused on sportswear and lifestyle products in North America.  
+## Business Case
+NexusVit is a fictional e-commerce startup focused on sportswear and lifestyle products in Canada.
+The company operates online and manages products, inventory, sales, suppliers, and customer behavior.
+
+### Project Goal
+The Operations & Sales team needed a system to:  
+- Register clients and their purchases  
+- Track products, categories, prices, and stock  
+- Manage suppliers and inventory replenishments  
+- Automatically update stock when sales are completed  
+- Identify products with critical stock levels  
+
+### Key Reporting & Insights
+- **Daily Sales Report**: captures paid orders, customer info, and detailed product sales  
+- **Product & Inventory Analysis**: total sales per product, inventory levels, critical stock alerts  
+- **Customer Insights**: top customers, purchase frequency, inactive clients  
+- **Replenishment Tracking**: products restocked, supplier info, time to restock  
+- **Mailing Lists for Marketing**: customers with at least one paid purchase  
+
+> For full details, see the complete Bussiness Case: [Full Business Case PDF](docs/NexusVit_Business_Case.pdf)
+
+---
+
+## Project Scope 
 This project demonstrates an end-to-end data workflow, from database design to analytical reporting, covering transactional activity, inventory management, and customer behavior analysis.
 
 **Key assumptions:**
