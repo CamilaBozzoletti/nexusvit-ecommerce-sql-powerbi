@@ -19,7 +19,7 @@ The Operations & Sales team needed a system to:
 - **Replenishment Tracking**: products restocked, supplier info, time to restock  
 - **Mailing Lists for Marketing**: customers with at least one paid purchase  
 
-> For full details, see the complete Bussiness Case: [Full Business Case PDF](docs/NexusVit_Business_Case.pdf)
+> For full details, see the complete Bussiness Case: [Full Business Case PDF](docs/NexusVit_Case.pdf)
 
 ---
 
