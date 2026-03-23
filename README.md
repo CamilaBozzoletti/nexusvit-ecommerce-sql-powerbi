@@ -12,7 +12,7 @@ The Operations & Sales team needed a system to:
 - Automatically update stock when sales are completed  
 - Identify products with critical stock levels  
 
-### Key Reporting & Insights
+### Analytical Reports
 - **Daily Sales Report**: captures paid orders, customer info, and detailed product sales  
 - **Product & Inventory Analysis**: total sales per product, inventory levels, critical stock alerts  
 - **Customer Insights**: top customers, purchase frequency, inactive clients  
