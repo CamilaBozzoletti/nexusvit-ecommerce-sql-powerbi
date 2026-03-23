@@ -67,21 +67,21 @@ The SQL reports transform transactional data into actionable insights across key
 A Power BI dashboard was built using a MySQL database connection to visualize key metrics and explore business performance. The dashboard is supported by SQL queries, which handle data preparation and enable more complex analysis beyond Power BI’s native capabilities.
 
 ### Dashboard Screenshots
-![Dashboard 1](Images/dashboard-screenshot1.png)  
 ![Dashboard 2](Images/dashboard-screenshot2.png)  
+![Dashboard 1](Images/dashboard-screenshot1.png)  
 
 **[View Dashboard PDF](Dashboard/NexusVit_Dashboard.pdf)**
 
 ---
 
 ## Key Insights
-- Revenue is highly seasonal, peaking in January–February and October, with a sharp ~89% drop from February to April. This suggests implementing targeted promotions during low-demand periods to stabilize sales throughout the year.  
-- Training Shoes dominates sales, while Home Workout Equipment significantly underperforms. Increasing visibility, optimizing pricing, and bundling it with top-selling items could help improve its performance.  
-- Domestic customers drive most conversions, while international users show interest but experience high cart abandonment. Possible barriers includes high delivery costs, long delivery times, or limited payment options.  
-- Inventory value (58.28K) is significantly higher than total revenue (1.19K), which may indicate slow inventory turnover or overstocking. This highlights the need to optimize inventory management and better align stock levels with demand.  
-- There is no clear relationship between units sold and current stock, suggesting inventory is not aligned with demand, with risks of overstocking low-performing products and stock shortages for high-demand items.  
-- Five out of 30 products generate 53.61% of total revenue, indicating a strong dependency on a small subset of products. Diversifying revenue sources and reducing reliance on top performers could improve business stability.  
-- Only 3.3% of customers were active in the last 90 days, highlighting low customer retention and the opportunity to implement targeted strategies such as loyalty programs, personalized promotions, or remarketing campaigns.  
+- **Revenue is highly seasonal**, peaking in January–February and October, with a sharp ~89% drop from February to April. This suggests implementing targeted promotions during low-demand periods to stabilize sales throughout the year.  
+- **Training Shoes dominates sales**, while Home Workout Equipment significantly underperforms. Increasing visibility, optimizing pricing, and bundling it with top-selling items could help improve its performance.  
+- **Domestic customers drive most conversions**, while international users show interest but experience high cart abandonment. Possible barriers includes high delivery costs, long delivery times, or limited payment options.  
+- Inventory value (58.28K) is significantly higher than total revenue (1.19K), which may indicate **slow inventory turnover or overstocking**. This highlights the need to optimize inventory management and better align stock levels with demand.  
+- There is no clear relationship between units sold and current stock, suggesting **inventory is not aligned with demand**, with risks of overstocking low-performing products and stock shortages for high-demand items.  
+- Five out of 30 products generate 53.61% of total revenue, indicating a **strong dependency on a small subset of products**. Diversifying revenue sources and reducing reliance on top performers could improve business stability.  
+- Only 3.3% of customers were active in the last 90 days, highlighting **low customer retention** and the opportunity to implement targeted strategies such as loyalty programs, personalized promotions, or remarketing campaigns.  
 - To support this, the dashboard provides a table identifying customers without recent paid purchases, providing key information for marketing teams to target retention efforts, loyalty programs, and personalized promotions to re-engage inactive clients.
 
 ---
