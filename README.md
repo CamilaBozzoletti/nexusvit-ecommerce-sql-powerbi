@@ -72,17 +72,17 @@ The SQL reports transform transactional data into **actionable insights** across
 
 ### SQL Screenshots
 Here’s a snapshot of some key queries:
-
-![Inventory view](Images/inventory-view-sql.png)  
+ 
 ![Inventory view alternative](Images/inventory-view-sql-2.png)  
+![Inventory view](Images/inventory-view-sql.png) 
 
 ---
 
 ## BI Integration
 A **Power BI dashboard** was built using a MySQL connection to visualize key metrics and explore business performance.  
 
-![Dashboard overview](Images/dashboard-screenshot1.png)  
-![Dashboard detail](Images/dashboard-screenshot2.png)  
+![Dashboard detail](Images/dashboard-screenshot2.png)
+![Dashboard overview](Images/dashboard-screenshot1.png)    
 
 [View Dashboard PDF](Dashboard/NexusVit_Dashboard.pdf)
 
