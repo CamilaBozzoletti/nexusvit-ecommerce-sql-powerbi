@@ -33,6 +33,14 @@ This project demonstrates an end-to-end data workflow, from database design to a
 
 ---
 
+## Tech Stack
+- Draw.io: Relational database diagramming
+- MySQL: DDL, DML (including ETL), reports
+- Power BI: Data modeling, DAX measures, visualization
+- Google Sheets: Workflow organization
+
+---
+
 ## Data & System Design
 
 ### Dataset
