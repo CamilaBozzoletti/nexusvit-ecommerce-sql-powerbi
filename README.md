@@ -114,5 +114,15 @@ A Power BI dashboard was built using a MySQL database connection to visualize ke
 
 ---
 
+## How to Navigate
+
+1. Start with the business case document (`business-case.pdf`) to understand the project objectives and context.  
+2. Review the SQL scripts (`ddl.sql`, `dml.sql`, `reports.sql`) to see the database structure, sample data (simulated data for testing), and analytical queries.  
+3. Check the database schema (`database-schema.pdf`) to visualize the relational model.  
+4. Access the Power BI dashboard (`dashboard.pbix`) to explore key KPIs and visualizations.  
+5. Optionally, consult the screenshots (`images/`) for quick reference used in the README.
+
+---
+
 ## Appendix
 The complete SQL scripts used in this project are available in the repository, including database creation (DDL), data population and cleaning (DML), and analytical queries. The code is documented with comments for those who want to explore the implementation in more detail.
