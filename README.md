@@ -88,7 +88,7 @@ This process also revealed opportunities to improve database design, such as imp
 ## Analytical Reports
 The SQL reports transform transactional data into actionable insights across key business areas: sales, product performance, inventory control, customer behavior, replenishment, and marketing outreach. Specific reports include daily sales activity, category and product rankings, current stock levels and total inventory value, stock alerts, inactive customer identification, and simulated customer contact lists for analytical purposes.
 
-### SQL Screenshots 
+### SQL Preview 
 ![Inventory View 2](Images/inventory-view-sql-2.png)  
 
 ---
@@ -96,7 +96,7 @@ The SQL reports transform transactional data into actionable insights across key
 ## BI Integration
 A Power BI dashboard was built using a MySQL database connection to visualize key metrics and explore business performance. The dashboard is supported by SQL queries, which handle data preparation and enable more complex analysis beyond Power BI’s native capabilities.
 
-### Dashboard Screenshots
+### Dashboard Preview
 ![Dashboard 2](Images/dashboard-screenshot2.png)  
 ![Dashboard 1](Images/dashboard-screenshot1.png)  
 
